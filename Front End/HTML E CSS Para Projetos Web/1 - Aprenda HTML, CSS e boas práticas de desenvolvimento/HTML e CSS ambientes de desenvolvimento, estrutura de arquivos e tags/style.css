@@ -3,10 +3,6 @@ body {
     color: #ffffff;
 }
 
-strong {
+.titulo-destaque {
     color: #22d4fd;
-}
-
-a {
-    color: black;
 }
